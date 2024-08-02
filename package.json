@@ -16,3 +16,6 @@
     "express": "^4.19.2"
   }
 }
+"scripts": {
+  "build": "node index.js"
+}
